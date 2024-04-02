@@ -5,7 +5,8 @@
 The Project Name is a Spring Boot web application designed to provide essential user authentication and data retrieval functionalities. It offers APIs for user registration, login, logout, and retrieving entries. Additionally, it provides an API to fetch Ethereum wallet balances using wallet addresses. The project uses H2, an in-memory database, to store user data.
 
 # To access this project Use swagger UI
-  ![Swagger UI](https://drive.google.com/file/d/1OjEyNYK-arLTKP6sR6vDFzakQMr34qXV/view?usp=sharing)
+  ![Swagger UI](https://drive.google.com/uc?export=download&id=1OjEyNYK-arLTKP6sR6vDFzakQMr34qXV)
+
 ## Features
 
 - **User Registration**: 
