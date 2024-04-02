@@ -1,5 +1,5 @@
 # Project Name
-# Note: Uses H2 DATABASE(INMEMORY)
+## Note: Uses H2 DATABASE(IN-MEMORY) and runs on port local env 8081
 ## Description
 
 The Project Name is a Spring Boot web application designed to provide essential user authentication and data retrieval functionalities. It offers APIs for user registration, login, logout, and retrieving entries. Additionally, it provides an API to fetch Ethereum wallet balances using wallet addresses. The project uses H2, an in-memory database, to store user data.
